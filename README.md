@@ -1,5 +1,19 @@
 # Tourism Destination Clustering
 
+```text
+> Machine Learning / Unsupervised Learning
+> Application: Streamlit
+> Status: Deployed
+```
+
+<p align="left">
+  <a href="https://tourism-destination-clustering.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  </a>
+</p>
+
+![Tourism Destination Clustering](assets/image.png)
+
 A closer look at how countries differ in their tourism characteristics.
 
 ![Tourism Destination Clustering](assets/image.png)
