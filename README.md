@@ -14,9 +14,6 @@
 
 ![Tourism Destination Clustering](assets/image.png)
 
-A closer look at how countries differ in their tourism characteristics.
-
-![Tourism Destination Clustering](assets/image.png)
 
 ## Features
 
